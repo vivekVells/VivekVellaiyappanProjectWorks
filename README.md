@@ -11,6 +11,7 @@ This repo contains all my projects
 ## On Progress
 - [JSONConverter](https://github.com/vivekVells/JSONConverter) to input key value pairs that can be downloaded as .json file. || [Working Demo]() - to be updated soon
 - [AcceptAcceptableInvalidPassword](https://github.com/vivekVells/AcceptAcceptableInvalidPassword) to accept accept password though it has invalid inputs upto certain point || [Working Demo]() - to be updated soon
+- [WebScrapMailer](https://github.com/vivekVells/WebScrapMailer) to scan through the web content and mail it.
 
 ## To Start Bucket List
 - [Hill Cipher Encrypter & Decrypter](https://github.com/vivekVells/HillCipherEncyptDecrypter) to implement the Hill cipher. 

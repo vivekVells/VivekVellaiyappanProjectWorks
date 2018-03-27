@@ -13,6 +13,6 @@ This repo contains all my projects
 - [AcceptAcceptableInvalidPassword](https://github.com/vivekVells/AcceptAcceptableInvalidPassword) to accept accept password though it has invalid inputs upto certain point || [Working Demo]() - to be updated soon
 
 ## To be started bucket
-- [Hill Cipher Encrypter & Decrypter](https://github.com/vivekVells/HillCipherEncyptDecrypter) to implement the Hill cipher. || [Working Demo]() - to be updated soon
+- [Hill Cipher Encrypter & Decrypter](https://github.com/vivekVells/HillCipherEncyptDecrypter) to implement the Hill cipher. 
 - [Apt Binary Tree Root Selector By Time Complexity](https://github.com/vivekVells/AptBinaryTreeRootSelectByTimeComplexity) to identify apt root value for binary tree which shows best case time complexity value 
 - [Binary Tree Structure Generator](https://github.com/vivekVells/BinaryTreeStructureGenerator) to generate binary tree structure for any given integer input

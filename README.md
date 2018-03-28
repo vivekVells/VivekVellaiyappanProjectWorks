@@ -7,6 +7,7 @@ This repo contains all my projects
 - [Employee Work Time Log Management](https://github.com/vivekVells/EmployeeWorkTimeLogManagement) to maintain a working time log of all the employees (this will be useful to run the payroll since the working hours of each employee is recorded) || [Working Demo](https://github.com/vivekVells/EmployeeWorkTimeLogManagement/tree/master/demo) - view the .pdf file or .gif file || Languages: Python, Django, Bootstrap, Sqllite3
 - [Room Scheduler](https://github.com/vivekVells/MSCS721-roomScheduler) to allow users to create rooms and schedule meeting for it. [Working Demo](https://youtu.be/SZC_XPcPJgY) || Languages: Java, Junit, JSON, Maven, Static code analysis tools
 - [Salary Manager](https://github.com/vivekVells/Salary-Manager-Java-MySql-Project) to track or manage money transactions (income or expense) || [Working Demo](https://youtu.be/JTzFz7wpwvk) || Languages: Java, MySql
+- [VehicleManagementSystem](https://github.com/vivekVells/VehicleManagementSystem) to manage vehicular activities such as vehicle registration, driver license renewal, fine payment, filing charges and complaints and feedback || [Working Demo](https://github.com/vivekVells/VehicleManagementSystem/tree/master/demo) || Languages: Java, JSP, MS-ACCESS
 
 ## On Progress
 - [JSONConverter](https://github.com/vivekVells/JSONConverter) to input key value pairs that can be downloaded as .json file. || [Working Demo]() - to be updated soon

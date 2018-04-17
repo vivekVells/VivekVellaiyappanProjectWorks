@@ -18,3 +18,4 @@ This repo contains all my projects
 - [Hill Cipher Encrypter & Decrypter](https://github.com/vivekVells/HillCipherEncyptDecrypter) to implement the Hill cipher. 
 - [Apt Binary Tree Root Selector By Time Complexity](https://github.com/vivekVells/AptBinaryTreeRootSelectByTimeComplexity) to identify apt root value for binary tree which shows best case time complexity value 
 - [Binary Tree Structure Generator](https://github.com/vivekVells/BinaryTreeStructureGenerator) to generate binary tree structure for any given integer input
+- [CollatzSequenceAnalyzer](https://github.com/vivekVells/CollatzSequenceAnalyzer) to confirm that collatz sequence exists with deep analyzis in terms of Data Visualizing Effects (also trying to figure out whether there is a possible way to break this code)

@@ -19,3 +19,4 @@ This repo contains all my projects
 - [Apt Binary Tree Root Selector By Time Complexity](https://github.com/vivekVells/AptBinaryTreeRootSelectByTimeComplexity) to identify apt root value for binary tree which shows best case time complexity value 
 - [Binary Tree Structure Generator](https://github.com/vivekVells/BinaryTreeStructureGenerator) to generate binary tree structure for any given integer input
 - [CollatzSequenceAnalyzer](https://github.com/vivekVells/CollatzSequenceAnalyzer) to confirm that collatz sequence exists with deep analyzis in terms of Data Visualizing Effects (also trying to figure out whether there is a possible way to break this code)
+- [HTMLCodeGeneratorFromUI](https://github.com/vivekVells/HTMLCodeGeneratorFromUI) to generate HTML code from UI user inputs - this is a fun den project type

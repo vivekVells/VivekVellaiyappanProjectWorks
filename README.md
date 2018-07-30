@@ -4,6 +4,7 @@ This repo contains all my projects
 # Project List
 ## Completed || Enhancements 
 - [The First Book I wrote](http://vivekvells.blogspot.com/2018/01/a-view-over-all-india-radio-short.html) about ALL INDIA RADIO, The National Radio Broadcaster of INDIA || [Book PDF View](https://drive.google.com/file/d/0By7sRjzDcksBWWYxb21zejYtLWc/view)
+- [Link Healthiness Manager](https://github.com/vivekVells/LinkHealthinessMgr) - best place to check website url's reliability such that there is no errors such as 404, permission related, etc... for the web development team || [Working Demo](https://github.com/vivekVells/LinkHealthinessMgr#project-working-demo)
 - [Employee Work Time Log Management](https://github.com/vivekVells/EmployeeWorkTimeLogManagement) to maintain a working time log of all the employees (this will be useful to run the payroll since the working hours of each employee is recorded) || [Working Demo](https://github.com/vivekVells/EmployeeWorkTimeLogManagement/tree/master/demo) - view the .pdf file or .gif file || Languages: Python, Django, Bootstrap, Sqllite3
 - [Room Scheduler](https://github.com/vivekVells/MSCS721-roomScheduler) to allow users to create rooms and schedule meeting for it. [Working Demo](https://youtu.be/SZC_XPcPJgY) || Languages: Java, Junit, JSON, Maven, Static code analysis tools
 - [Salary Manager](https://github.com/vivekVells/Salary-Manager-Java-MySql-Project) to track or manage money transactions (income or expense) || [Working Demo](https://youtu.be/JTzFz7wpwvk) || Languages: Java, MySql

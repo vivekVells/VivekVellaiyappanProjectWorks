@@ -18,7 +18,10 @@ This repo contains all my projects
 ## Academic Projects
 - Coursework: Software Testing & Maintenance | [Room Scheduler](https://github.com/vivekVells/MSCS721-roomScheduler) to allow users to create rooms and schedule meeting for it. [Working Demo](https://youtu.be/SZC_XPcPJgY) || Languages: Java, Junit, JSON, Maven, Static code analysis tools
 - Coursework: Software Design & Development | [Black Jack Game](https://github.com/vivekVells/BlackJackGame) - to implement black jack game using Java
+- Coursework: Game Designing| [Bricks vs Defender](https://github.com/vivekVells/GameDesignProgramming/tree/master/GamesDesigned/BricksVsDefender) - Combination of [Brick Breaker](https://en.wikipedia.org/wiki/Brick_Breaker) and [Pillball](https://en.wikipedia.org/wiki/Pinball) Game but totally new concept that is not available anywhere in internet as of now. This will be a multiplayer defending game which is based on [Last Man Standing](https://en.wikipedia.org/wiki/Last_man_standing_(gaming)) gaming concept. || [Working Demo - to be updated soon]()
+
 - [VehicleManagementSystem](https://github.com/vivekVells/VehicleManagementSystem) to manage vehicular activities such as vehicle registration, driver license renewal, fine payment, filing charges and complaints and feedback || [Working Demo](https://github.com/vivekVells/VehicleManagementSystem/tree/master/demo) || Languages: Java, JSP, MS-ACCESS
+
 
 ## Projects done to learn the new language
 - For Django - [Employee Work Time Log Management](https://github.com/vivekVells/EmployeeWorkTimeLogManagement) to maintain a working time log of all the employees (this will be useful to run the payroll since the working hours of each employee is recorded) || [Working Demo](https://github.com/vivekVells/EmployeeWorkTimeLogManagement/tree/master/demo) - view the .pdf file or .gif file || Languages: Python, Django, Bootstrap, Sqllite3
@@ -30,7 +33,6 @@ This repo contains all my projects
 ## To Start Bucket List
 
 ### Academic Projects
-- [Bricks vs Defender](https://github.com/vivekVells/GameDesignProgramming/tree/master/GamesDesigned/BricksVsDefender) - Combination of [Brick Breaker](https://en.wikipedia.org/wiki/Brick_Breaker) and [Pillball](https://en.wikipedia.org/wiki/Pinball) Game but totally new concept that is not available anywhere in internet as of now. This will be a multiplayer defending game which is based on [Last Man Standing](https://en.wikipedia.org/wiki/Last_man_standing_(gaming)) gaming concept. || [Working Demo - to be updated soon]()
 - [Hill Cipher Encrypter & Decrypter](https://github.com/vivekVells/HillCipherEncyptDecrypter) to implement the Hill cipher. 
 - [Apt Binary Tree Root Selector By Time Complexity](https://github.com/vivekVells/AptBinaryTreeRootSelectByTimeComplexity) to identify apt root value for binary tree which shows best case time complexity value 
 - [Binary Tree Structure Generator](https://github.com/vivekVells/BinaryTreeStructureGenerator) to generate binary tree structure for any given integer input

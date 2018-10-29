@@ -1,3 +1,8 @@
+## Link
+- LinkedIn: http://linkedin.com/in/vivekvellaiyappans/
+- Blog: http://vivekvells.blogspot.com/
+- Contact: vivekvellaiyappans@gmail.com | techengineervivek@gmail.com
+
 # VivekVellaiyappanProjectWorks
 This repo contains all my projects
 

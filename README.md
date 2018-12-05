@@ -19,6 +19,8 @@ This repo contains all my projects
 - [Salary Manager](https://github.com/vivekVells/Salary-Manager-Java-MySql-Project) to track or manage money transactions (income or expense) || [Working Demo](https://youtu.be/JTzFz7wpwvk) || Languages: Java, MySql
 - [Link Healthiness Manager](https://github.com/vivekVells/LinkHealthinessMgr) - best place to check website url's reliability such that there is no errors such as 404, permission related, etc... for the web development team || [Working Demo](https://github.com/vivekVells/LinkHealthinessMgr#project-working-demo) || [Site Link](http://vivekvells.pythonanywhere.com/)
 
+## Special Mention
+- [Task Process Manager](https://github.com/vivekVells/TaskProcessManager) - repo will be made public on 12/7 - Complete SDLC process is being experienced (worked on this project as an Architect, Scrum Master, Software Engineer, DevOps Engineer) Objective: to implement a task manager application.  It must contain the following components: metrics collection, database storage, and a user interface.
 
 ## Academic Projects
 - Coursework: Software Testing & Maintenance | [Room Scheduler](https://github.com/vivekVells/MSCS721-roomScheduler) to allow users to create rooms and schedule meeting for it. [Working Demo](https://youtu.be/SZC_XPcPJgY) || Languages: Java, Junit, JSON, Maven, Static code analysis tools

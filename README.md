@@ -4,7 +4,20 @@
 - Contact: vivekvellaiyappans@gmail.com | techengineervivek@gmail.com
 
 # VivekVellaiyappanProjectWorks
-This repo contains all my projects
+- This repo contains all my projects & few info to make you get to know me professionally
+
+## ShortNote:
+- I am looking for Full Time Opportunities in Software Engineering Roles (Software Developer/Engineer, Full Stack Developer). Please feel free to reach out to me at vivekvellaiyappans@gmail.com. I would love to have a quick chat regarding the professional works I did so far and how I could impact your team's productivity positively.
+
+# Short Links 
+- About myself: Short Summary: [Google Doc Link - About Vivek Vellaiyappan](https://drive.google.com/open?id=1F0jO5KnpU_qA4ZTlKOQfNjMUN-bQWqAUKIYld3Gdt2s)
+- My Passion to solve real time issues, efforts I took to learn new technologies to understand them, hackathon, academic projects: [GitHub: MyProjectWorks](https://github.com/vivekVells/VivekVellaiyappanProjectWorks)
+- All my professional documents: [Google Drive: About myself & project documents I did](https://drive.google.com/open?id=1s1IHkruSWpSbjYdyyrATwmkLM38ago79)
+- Special Mentions of project I did & proud of:
+  - 1st exposure to DB design from scratch by myself & my interest to excel on it: [GitHub: Salary-Manager-Java-MySql-Project#documentation-link](https://github.com/vivekVells/Salary-Manager-Java-MySql-Project#documentation-link)
+  - 1st experience to play different roles besides Software Engineer role (simulation of all the best practices I have learnt from industry over 2 of my team mates): [GitHub: TaskProcessManager#team-info--roles-executed-for-this-project](https://github.com/vivekVells/TaskProcessManager#team-info--roles-executed-for-this-project)
+     - Documents that describes the efforts myself & my team mates did: [GitHub: TaskProcessManager#quick-links](https://github.com/vivekVells/TaskProcessManager#quick-links)
+  - 1st experience as Consultant while working at Marist College: [GitHub: InformationScheduledDeliverer#reason-for-this-project-creation](https://github.com/vivekVells/InformationScheduledDeliverer#reason-for-this-project-creation)
 
 # Extra
 #### First Book I wrote

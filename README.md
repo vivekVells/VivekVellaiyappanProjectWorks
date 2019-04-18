@@ -41,7 +41,7 @@
 - [VehicleManagementSystem](https://github.com/vivekVells/VehicleManagementSystem) to manage vehicular activities such as vehicle registration, driver license renewal, fine payment, filing charges and complaints and feedback || [Working Demo](https://github.com/vivekVells/VehicleManagementSystem/tree/master/demo) || Languages: Java, JSP, MS-ACCESS
 
 
-## Projects done to learn the new language
+## Projects done to learn the new Technology
 - For Spring boot, Spring Framework - [Spring Boot Application Try out](https://github.com/vivekVells/SpringBootApplnTryout) to understand how spring boot works and create production grade website || [Working Demo](https://github.com/vivekVells/SpringBootApplnTryout/tree/master/Demo) || **Tech Involved: ** ```Spring Boot, Spring MVC, Spring REST controller, Apache Derby, Tomcat Server, Postman, jUnit, Swagger, Thymeleaf, Bootstrap, jQuery, HTML, CSS, JavaScript```
 - For Django - [Employee Work Time Log Management](https://github.com/vivekVells/EmployeeWorkTimeLogManagement) to maintain a working time log of all the employees (this will be useful to run the payroll since the working hours of each employee is recorded) || [Working Demo](https://github.com/vivekVells/EmployeeWorkTimeLogManagement/tree/master/demo) - view the .pdf file or .gif file || Languages: Python, Django, Bootstrap, Sqllite3
 - For Calendar plugin - [ScheduleMeetings](https://github.com/vivekVells/ScheduleMeetings) - Handle meeting events using fullcalendar plugin - https://fullcalendar.io/ - [Working screenshots](https://github.com/vivekVells/ScheduleMeetings/tree/master/demo)

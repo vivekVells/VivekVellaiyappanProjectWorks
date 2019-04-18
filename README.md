@@ -2,7 +2,7 @@
 - This repo contains all my projects & few info to make you get to know me professionally
 
 ## ShortNote:
-- I am looking for Full Time Opportunities in **Software Engineering Roles (Software Developer/Engineer, Full Stack Developer)**. Please feel free to reach out to me at vivekvellaiyappans@gmail.com. I would love to have a quick chat regarding the professional works I did so far and how I could impact the team and company positively.
+- I am looking for Full Time Opportunities in **Software Engineering Roles (Software Developer/Engineer, Full Stack Developer)**. Please feel free to reach out to me at vivekvellaiyappans@gmail.com. I would love to have a quick chat regarding the professional works I did so far and share how I could impact the team and company positively.
 
 ## ShortLinks:
 - LinkedIn: http://linkedin.com/in/vivekvellaiyappans/

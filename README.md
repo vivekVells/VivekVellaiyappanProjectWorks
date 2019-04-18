@@ -1,4 +1,4 @@
-# VivekVellaiyappanProjectWorks
+# Vivek Vellaiyappan's Project & Professional works Info
 - This repo contains all my projects & few info to make you get to know me professionally
 
 ## ShortNote:

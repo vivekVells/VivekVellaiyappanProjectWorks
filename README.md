@@ -17,10 +17,6 @@
      - Documents that describes the efforts myself & my team mates did: [GitHub: TaskProcessManager#quick-links](https://github.com/vivekVells/TaskProcessManager#quick-links)
   - 1st experience as **Consultant** while working at Marist College: [GitHub: InformationScheduledDeliverer#reason-for-this-project-creation](https://github.com/vivekVells/InformationScheduledDeliverer#reason-for-this-project-creation)
 
-# Extra
-#### First Book I wrote
-- [The First Book I wrote](http://vivekvells.blogspot.com/2018/01/a-view-over-all-india-radio-short.html) about ALL INDIA RADIO, The National Radio Broadcaster of INDIA || [Book PDF View](https://drive.google.com/file/d/0By7sRjzDcksBWWYxb21zejYtLWc/view)
-
 # Project List
 
 ## Solving Real Time Issues
@@ -62,3 +58,7 @@
 - [AcceptAcceptableInvalidPassword](https://github.com/vivekVells/AcceptAcceptableInvalidPassword) to accept accept password though it has invalid inputs upto certain point || [Working Demo]() - to be updated soon
 - [CollatzSequenceAnalyzer](https://github.com/vivekVells/CollatzSequenceAnalyzer) to confirm that collatz sequence exists with deep analyzis in terms of Data Visualizing Effects (also trying to figure out whether there is a possible way to break this code)
 - [HTMLCodeGeneratorFromUI](https://github.com/vivekVells/HTMLCodeGeneratorFromUI) to generate HTML code from UI user inputs - this is a fun den project type
+
+# Extra
+#### First Book I wrote
+- [The First Book I wrote](http://vivekvells.blogspot.com/2018/01/a-view-over-all-india-radio-short.html) about ALL INDIA RADIO, The National Radio Broadcaster of INDIA || [Book PDF View](https://drive.google.com/file/d/0By7sRjzDcksBWWYxb21zejYtLWc/view)

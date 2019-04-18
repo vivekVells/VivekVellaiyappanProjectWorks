@@ -1,15 +1,13 @@
-## Link
-- LinkedIn: http://linkedin.com/in/vivekvellaiyappans/
-- Blog: http://vivekvells.blogspot.com/
-- Contact: vivekvellaiyappans@gmail.com | techengineervivek@gmail.com
-
 # VivekVellaiyappanProjectWorks
 - This repo contains all my projects & few info to make you get to know me professionally
 
 ## ShortNote:
-- I am looking for Full Time Opportunities in Software Engineering Roles (Software Developer/Engineer, Full Stack Developer). Please feel free to reach out to me at vivekvellaiyappans@gmail.com. I would love to have a quick chat regarding the professional works I did so far and how I could impact your team's productivity positively.
+- I am looking for Full Time Opportunities in Software Engineering Roles (Software Developer/Engineer, Full Stack Developer). Please feel free to reach out to me at vivekvellaiyappans@gmail.com. I would love to have a quick chat regarding the professional works I did so far and how I could impact the team and company positively.
 
-# Short Links 
+## ShortLinks:
+- LinkedIn: http://linkedin.com/in/vivekvellaiyappans/
+- Blog: http://vivekvells.blogspot.com/
+- Contact: vivekvellaiyappans@gmail.com | techengineervivek@gmail.com 
 - About myself: Short Summary: [Google Doc Link - About Vivek Vellaiyappan](https://drive.google.com/open?id=1F0jO5KnpU_qA4ZTlKOQfNjMUN-bQWqAUKIYld3Gdt2s)
 - My Passion to solve real time issues, efforts I took to learn new technologies to understand them, hackathon, academic projects: [GitHub: MyProjectWorks](https://github.com/vivekVells/VivekVellaiyappanProjectWorks)
 - All my professional documents: [Google Drive: About myself & project documents I did](https://drive.google.com/open?id=1s1IHkruSWpSbjYdyyrATwmkLM38ago79)

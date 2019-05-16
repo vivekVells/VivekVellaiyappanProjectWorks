@@ -44,6 +44,9 @@
 - **Fullcalendar plugin** - For Calendar plugin - [ScheduleMeetings](https://github.com/vivekVells/ScheduleMeetings) - Handle meeting events using fullcalendar plugin - https://fullcalendar.io/ - [Working screenshots](https://github.com/vivekVells/ScheduleMeetings/tree/master/demo)
 - React Testing - [Link](https://github.com/vivekVells/ReactTesting) - This repo is solely to excel in understanding and improving skills in testing React using techniques/tools/framework.
 
+## Fun Projects - Random Thought processed projects
+- [DailyStandUpMeetingPlanner](https://github.com/vivekVells/DailyStandUpMeetingPlanner) - Daily Stand up Meeting Planner for professionals in workspace. Time Keeping, Random People select to start first, Data Statistics on how many time spent on meetings, so on. - Tech stack: React, Yarn, GitHub, Axios, JSON file as DB - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6534724589958770688/)
+
 ## Hackathon
 - [ChatAndFeelBetterForPatients](https://github.com/vivekVells/ChatAndFeelBetterForPatients), Created for Hackathon Event - Aim: we believe that there is a need for having an environment where Patients would share their feelings. A place where they feel very comfortable. In response to that, an ecosystem is being created where patients could meetup on regular basis, q&a with the doctors/nurses using chat application, forum and webinar session management. - [Working Demo will be updated]() || - [Project Proposals & Execution Pics](https://github.com/vivekVells/ChatAndFeelBetterForPatients#team-members)
 

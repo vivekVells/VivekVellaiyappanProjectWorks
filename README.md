@@ -10,7 +10,7 @@
 - During his **Express scripts internship**, Vivek **built the foundation of the company's official Developer portal website which** will be exposing the **approved sensitive APIs information** to external or internal clients. He self learned a new WCM platform language, Drupal within a short span of time to build the foundation. He thrives to master software architecture and have huge interest over it too. He had an amazing opportunity to shadow senior architects at ESI to learn the best architectural patterns and participate in the architectural road map strategies too. 
 - Vivek loves to **improve his team's working efficiency**. At **Athenahealth**, he created an UI tool for his team to update the Database settings easier in UI rather than frequent **manual query typing**. At **Marist College**, as a Full Stack Developer, he developed a dashboard to **automatically send email** to the recipients every morning based on the workshop information instead of them manually sending those email daily.
 
-## ShortLinks:
+## Short healts:
 - [LinkedIn](http://linkedin.com/in/vivekvellaiyappans/) | [Blog](http://vivekvells.blogspot.com/) | [YouTube](https://www.youtube.com/channel/UClZOc7ylq8ay9tnkuaa1f0A) | [GitHub](https://github.com/vivekVells/)
 - Contact: vivekvellaiyappans@gmail.com | techengineervivek@gmail.com 
 - About myself: Short Summary: [Google Doc Link - About Vivek Vellaiyappan](https://drive.google.com/open?id=1F0jO5KnpU_qA4ZTlKOQfNjMUN-bQWqAUKIYld3Gdt2s)
@@ -38,7 +38,7 @@
 - Coursework: **Software Testing & Maintenance** | [Room Scheduler](https://github.com/vivekVells/MSCS721-roomScheduler) to allow users to create rooms and schedule meeting for it. [Working Demo](https://youtu.be/SZC_XPcPJgY) || Languages: Java, Junit, JSON, Maven, Static code analysis tools
 - Coursework: **Software Design & Development** | [Black Jack Game](https://github.com/vivekVells/BlackJackGame) - to implement black jack game using Java
 - Coursework: **Game Designing** | [Bricks vs Defender](https://github.com/vivekVells/GameDesignProgramming/tree/master/GamesDesigned/BricksVsDefender) - Combination of [Brick Breaker](https://en.wikipedia.org/wiki/Brick_Breaker) and [Pillball](https://en.wikipedia.org/wiki/Pinball) Game but totally new concept that is not available anywhere in internet as of now. This will be a multiplayer defending game which is based on [Last Man Standing](https://en.wikipedia.org/wiki/Last_man_standing_(gaming)) gaming concept. || [Working Demo - to be updated soon](https://github.com/vivekVells/GameDesignProgramming#working-functionality)
-
+- Coursework: **Security Algorithms and Protocols / Cryptography** | [crypt](https://github.com/vivekVells/crypt) - learn fundamentals of cryptography - project done for this coursework: [Presentation-Evaluation-Tool](https://github.com/vivekVells/Presentation-Evaluation-Tool): mentioned above.
 - [VehicleManagementSystem](https://github.com/vivekVells/VehicleManagementSystem) to manage vehicular activities such as vehicle registration, driver license renewal, fine payment, filing charges and complaints and feedback || [Working Demo](https://github.com/vivekVells/VehicleManagementSystem/tree/master/demo) || Languages: Java, JSP, MS-ACCESS
 
 
@@ -47,10 +47,16 @@
 - **Spring, SpringBoot, building REST API based website** - For Spring boot, Spring Framework - [Spring Boot Application Try out](https://github.com/vivekVells/SpringBootApplnTryout) to understand how spring boot works and create production grade website || [Working Demo](https://github.com/vivekVells/SpringBootApplnTryout/tree/master/Demo) || **Tech Involved: ** ```Spring Boot, Spring MVC, Spring REST controller, Apache Derby, Tomcat Server, Postman, jUnit, Swagger, Thymeleaf, Bootstrap, jQuery, HTML, CSS, JavaScript```
 - **Django** - [Employee Work Time Log Management](https://github.com/vivekVells/EmployeeWorkTimeLogManagement) to maintain a working time log of all the employees (this will be useful to run the payroll since the working hours of each employee is recorded) || [Working Demo](https://github.com/vivekVells/EmployeeWorkTimeLogManagement/tree/master/demo) - view the .pdf file or .gif file || Languages: Python, Django, Bootstrap, Sqllite3
 - **Fullcalendar plugin** - For Calendar plugin - [ScheduleMeetings](https://github.com/vivekVells/ScheduleMeetings) - Handle meeting events using fullcalendar plugin - https://fullcalendar.io/ - [Working screenshots](https://github.com/vivekVells/ScheduleMeetings/tree/master/demo)
-- React Testing - [Link](https://github.com/vivekVells/ReactTesting) - This repo is solely to excel in understanding and improving skills in testing React using techniques/tools/framework.
+- **ReactJS Testing** - [Link](https://github.com/vivekVells/ReactTesting) - This repo is solely to excel in understanding and improving skills in testing React using techniques/tools/framework.
+- **ReactJS** - [reactAndMe](https://github.com/vivekVells/reactAndMe) - to become an expert in React Skills. using this repo to practice, revisit and get depth knowledge in react.
 
-## Fun Projects - Random Thought processed projects
+
+## Fun Projects - Random Thought Projects
 - [DailyStandUpMeetingPlanner](https://github.com/vivekVells/DailyStandUpMeetingPlanner) - Daily Stand up Meeting Planner for professionals in workspace. Time Keeping, Random People select to start first, Data Statistics on how many time spent on meetings, so on. - Tech stack: React, Yarn, GitHub, Axios, JSON file as DB - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6534724589958770688/)
+
+## Coding Skills Improve Preps
+- online coding challenges/prep sites - [SoftwareEngineerCodingPrep](https://github.com/vivekVells/SoftwareEngineerCodingPrep) - code on these online coding practice/challenges platforms to improve coding skills
+- [Advanced-Data-Structure-Tryout](https://github.com/vivekVells/Advanced-Data-Structure-Tryout) - excel in advanced data structure concepts
 
 ## Hackathon
 - [ChatAndFeelBetterForPatients](https://github.com/vivekVells/ChatAndFeelBetterForPatients), Created for Hackathon Event - Aim: we believe that there is a need for having an environment where Patients would share their feelings. A place where they feel very comfortable. In response to that, an ecosystem is being created where patients could meetup on regular basis, q&a with the doctors/nurses using chat application, forum and webinar session management. - [Working Demo will be updated]() || - [Project Proposals & Execution Pics](https://github.com/vivekVells/ChatAndFeelBetterForPatients#team-members)

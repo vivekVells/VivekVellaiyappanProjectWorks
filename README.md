@@ -2,7 +2,7 @@
 - This repo contains all my projects & few info to make you get to know me professionally
 - About Myself - Professional journey, impact I did so far in workplace - [Professional Info](https://drive.google.com/drive/folders/1s1IHkruSWpSbjYdyyrATwmkLM38ago79)
 
-## Technical Achievements 
+## Impact 
 - **Saved $1.18M annually at Tesla**. Vivek, as a Full Stack Developer Intern identified improvable opporunities for the quality technicians at General Car Assembly line at Fremont Factory to log the Non-Conformance (NC) issues faster than their typical existing software system which helped to caputure more data that resulted in more data-driven investigations. Because of such data insights, the assembly line flow step were automated & technicians presence being reduced from 7 to 3, accountability being improved and visibility of the issues had improved. More than 5,600+ issues were logged using this app (Feb 2019 to May 2019). (**Calc approx:** if $35 per hour is GA line technician Salary, then for 4 (members presence) * 35 $/ hr * 24 hr/day * 350 days/year = $1.18M annual).
 - During his **Express scripts internship**, Vivek **built the foundation of the company's official Developer portal website which** will be exposing the **approved sensitive APIs information** to external or internal clients. He self learned a new WCM platform language, Drupal within a short span of time to build the foundation. He thrives to master software architecture and have huge interest over it too. He had an amazing opportunity to shadow senior architects at ESI to learn the best architectural patterns and participate in the architectural road map strategies too. 
 - Vivek loves to **improve his team's working efficiency**. 

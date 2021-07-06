@@ -1,6 +1,7 @@
 # Vivek Vellaiyappan's Project & Professional works Info
 - This repo contains all my projects & few info to make you get to know me professionally
 - About Myself - Professional journey, impact I did so far in workplace - [Professional Info](https://drive.google.com/drive/folders/1s1IHkruSWpSbjYdyyrATwmkLM38ago79)
+- Blog - http://vivekvells.blogspot.com/
 
 ## Impact 
 - **Saved $1.18M annually at Tesla**. Vivek, as a Full Stack Developer Intern identified improvable opporunities for the quality technicians at General Car Assembly line at Fremont Factory to log the Non-Conformance (NC) issues faster than their typical existing software system which helped to caputure more data that resulted in more data-driven investigations. Because of such data insights, the assembly line flow step were automated & technicians presence being reduced from 7 to 3, accountability being improved and visibility of the issues had improved. More than 5,600+ issues were logged using this app (Feb 2019 to May 2019). (**Calc approx:** if $35 per hour is GA line technician Salary, then for 4 (members presence) * 35 $/ hr * 24 hr/day * 350 days/year = $1.18M annual).

@@ -1,7 +1,5 @@
 # Vivek Vellaiyappan's Project & Professional works Info
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vivekVells.VivekVellaiyappanProjectWorks)](https://github.com/vivekVells/VivekVellaiyappanProjectWorks) [![GitHub followers](https://img.shields.io/github/followers/vivekVells.svg?style=social&label=Follow)](https://github.com/vivekVells?tab=followers)
-
 - This repo contains all my projects & few info to make you get to know me professionally
 - About Myself - Professional journey, impact I did so far in workplace - [Professional Info](https://drive.google.com/drive/folders/1s1IHkruSWpSbjYdyyrATwmkLM38ago79)
 - Blog - http://vivekvells.blogspot.com/

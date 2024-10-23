@@ -13,7 +13,6 @@
 
 ## Overview
 - [LinkedIn](http://linkedin.com/in/vivekvellaiyappans/) | [Blog](http://vivekvells.blogspot.com/) | [YouTube](https://www.youtube.com/channel/UClZOc7ylq8ay9tnkuaa1f0A) | [GitHub](https://github.com/vivekVells/)
-- Contact: vivekvellaiyappans@gmail.com | techengineervivek@gmail.com 
 - About myself: Short Summary: [Google Doc Link - About Vivek Vellaiyappan](https://drive.google.com/open?id=1F0jO5KnpU_qA4ZTlKOQfNjMUN-bQWqAUKIYld3Gdt2s)
 - My Passion to solve real time issues, efforts I took to learn new technologies to understand them, hackathon, academic projects: [GitHub: MyProjectWorks](https://github.com/vivekVells/VivekVellaiyappanProjectWorks)
 - All my professional documents: [Google Drive: About myself & project documents I did](https://drive.google.com/open?id=1s1IHkruSWpSbjYdyyrATwmkLM38ago79)
